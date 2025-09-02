@@ -1,4 +1,4 @@
-# devCMDcycle.py
+# devCMDcycle.py v2.19
 
 A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.
 
