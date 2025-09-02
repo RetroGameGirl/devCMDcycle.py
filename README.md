@@ -1,6 +1,3 @@
-## The current version will always be placed in the current directory.
-
-
 # devCMDcycle.py
 
 A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.
