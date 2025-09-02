@@ -35,6 +35,3 @@ The application uses a placeholder system to make commands flexible:
  * %m: Path to the configured emulator
  * EXTERNAL: prefix: Spawns a command as a new process outside of the status window (e.g., EXTERNAL:%e %f to open a file in your editor).
 
-# License
-
-Please see the LICENSE.md file for details.
