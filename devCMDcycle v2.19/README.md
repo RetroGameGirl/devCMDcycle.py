@@ -1,14 +1,14 @@
 This was the initial version to have a configurable toolchain.  Previous versions were hard coded and had issues on non-linux system. 
 
 
-# CMDCycle.py
+# devCMDcycle.py
 
 A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.
 
-# What is Code Cycle Commander?
+# What is devCMDcycle.py?
 
-CMDCycle.py is a powerful front-end for managing software build environments. Originally designed for Atari 7800 retro development, it has evolved into a flexible tool that can be configured to handle any command-line-driven workflow. It provides a simple, clickable interface to manage complex build steps, eliminating the need to memorize and type repetitive commands.
-Whether you are developing for a retro console, compiling C++ code, or managing a web project, CMDCycle.py acts as your central launchpad.
+devCMDcycle.py is a powerful front-end for managing software build environments. Originally designed for Atari 7800 retro development, it has evolved into a flexible tool that can be configured to handle any command-line-driven workflow. It provides a simple, clickable interface to manage complex build steps, eliminating the need to memorize and type repetitive commands.
+Whether you are developing for a retro console, compiling C++ code, or managing a web project, devCMDcycle.py acts as your central launchpad.
 
 # Key Features
 
@@ -22,12 +22,12 @@ Whether you are developing for a retro console, compiling C++ code, or managing 
 # Getting Started
 
  * Ensure you have Python 3.x and the Tkinter library installed.
- * put the script in your path ans run the script from your project's directory: CMDCycle.py
+ * put the script in your path and run the script from your project's directory: devCMDcycle.py
  * Select your main source file and the appropriate toolchain.
  * Configure your toolchains, paths, and custom buttons via the Settings menu.
 Configuration
 
-The true power of CMDCycle.py lies in its configuration. All settings are stored in a simple .ini file, making your setups portable.
+The true power of devCMDcycle.py lies in its configuration. All settings are stored in a simple .ini file, making your setups portable.
 
 The application uses a placeholder system to make commands flexible:
 
