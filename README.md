@@ -10,6 +10,8 @@ A toolchain-agnostic GUI orchestrator for streamlining any command-line developm
 devCMDcycle.py is a powerful front-end for managing software build environments. Originally designed for Atari 7800 retro development, it has evolved into a flexible tool that can be configured to handle any command-line-driven workflow. It provides a simple, clickable interface to manage complex build steps, eliminating the need to memorize and type repetitive commands.
 Whether you are developing for a retro console, compiling C++ code, or managing a web project, devCMDcycle.py acts as your central launchpad.
 
+![alt text for the image](https://technomagick.net/wp-content/uploads/2025/09/devcmdcycle_screenshot-1.png)
+
 # Key Features
 
  * Customizable Toolchains: Define different build environments for each of your projects. A developer could have a "Toolchain" for 6502 assembly, another for a C-based project using GCC, and a third for Node.js.
