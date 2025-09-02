@@ -37,3 +37,6 @@ The application uses a placeholder system to make commands flexible:
  * %m: Path to the configured emulator
  * EXTERNAL: prefix: Spawns a command as a new process outside of the status window (e.g., EXTERNAL:%e %f to open a file in your editor).
 
+
+#iniCMDcycle.py
+This is a utility to convert the generated ini toolchain data to something that can be included as a default in the devCMDcycle.py source.
