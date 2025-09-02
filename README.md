@@ -1,6 +1,6 @@
 # CMDCycle.py
 
-A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.
+A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.The Auto-Typer is hard coded for 7800header as found in the 7800AsmDevKit. 
 
 # What is Code Cycle Commander?
 
