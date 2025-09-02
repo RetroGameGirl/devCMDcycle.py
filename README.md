@@ -1,4 +1,4 @@
-This was the initial version to have a configurable toolchain.  Previous versions were hard coded and had issues on non-linux system. 
+## The current version will always be placed in the current directory.
 
 
 # devCMDcycle.py
