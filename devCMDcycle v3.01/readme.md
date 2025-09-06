@@ -1,10 +1,19 @@
+# devCMDcycle.py
 # Developer Command Cycle v3.01
 
 **Author:** RetroGameGirl (atariage)
 
 **License:** [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
-A flexible, toolchain-based graphical front-end designed to automate and simplify command-line build processes. While originally created for Atari 7800 homebrew development, its powerful configuration options make it suitable for any project that relies on command-line tools.
+A toolchain-agnostic GUI orchestrator for streamlining any command-line development workflow.
+
+# What is devCMDcycle.py?
+
+devCMDcycle.py is a powerful front-end for managing software build environments. Originally designed for Atari 7800 retro development, it has evolved into a flexible tool that can be configured to handle any command-line-driven workflow. It provides a simple, clickable interface to manage complex build steps, eliminating the need to memorize and type repetitive commands.
+Whether you are developing for a retro console, compiling C++ code, or managing a web project, devCMDcycle.py acts as your central launchpad.
+
+![alt text for the image](https://github.com/RetroGameGirl/devCMDcycle.py/blob/main/devCMDcycle_301_screenshot.png?raw=true)
+
 
 ## Key Features
 
@@ -38,8 +47,7 @@ Follow these steps to get your first project running:
     A `devCMDcycle_301.ini` file will be created in this directory.
 3.  **Select Your Source File:** In the main window, click the `...` button next to "Source File" and choose your primary code file (e.g., `main.asm`, `game.c`).
 4.  **Configure a Toolchain:**
-    * Click the **Settings** button, then **Edit Toolchains**.
-    * Select a pre-configured toolchain (e.g., `7800ASMDevKit`) or add a new one.
+    * Select a pre-configured toolchain (e.g., `7800ASMDevKit`) or add a new one in the settings.
     * In the "Executable Path" field, enter the command for your compiler/assembler (e.g., `dasm`, `cl65`).
     * Customize the 10 action buttons below with names and commands.
     * Click **Save & Close**.
