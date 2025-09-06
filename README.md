@@ -47,8 +47,7 @@ Follow these steps to get your first project running:
     A `devCMDcycle_301.ini` file will be created in this directory.
 3.  **Select Your Source File:** In the main window, click the `...` button next to "Source File" and choose your primary code file (e.g., `main.asm`, `game.c`).
 4.  **Configure a Toolchain:**
-    * Click the **Settings** button, then **Edit Toolchains**.
-    * Select a pre-configured toolchain (e.g., `7800ASMDevKit`) or add a new one.
+    * Select a pre-configured toolchain (e.g., `7800ASMDevKit`) or add a new one in the settings.
     * In the "Executable Path" field, enter the command for your compiler/assembler (e.g., `dasm`, `cl65`).
     * Customize the 10 action buttons below with names and commands.
     * Click **Save & Close**.
