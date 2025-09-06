@@ -40,9 +40,9 @@ Whether you are developing for a retro console, compiling C++ code, or managing 
 Follow these steps to get your first project running:
 
 1.  **Place the Script:** Put the `devCMDcycle.py` script in a directory that is part of your system's PATH for easy access.
-2.  **Launch in Your Project Folder:** Open a terminal or command prompt, navigate to your project's main directory, and run the script:
+2.  **Launch in Your Project Folder:** Assuming you have python installed and setup, open a terminal or command prompt, navigate to your project's main directory, and run the script:
     ```bash
-    python devCMDcycle.py
+     devCMDcycle.py
     ```
     A `devCMDcycle_301.ini` file will be created in this directory.
 3.  **Select Your Source File:** In the main window, click the `...` button next to "Source File" and choose your primary code file (e.g., `main.asm`, `game.c`).
